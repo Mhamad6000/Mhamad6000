@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mhamad Othman</h1>
-<h1 align="center">Hi 👋, I'm Mhamad Othman</h1>
 # 💫 About Me:
 I'm a passionate frontend developer with a strong focus on creating user-friendly and visually appealing web applications. I love turning design concepts into elegant and functional websites that deliver exceptional user experiences.
 
