@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 <h1 align="center">Hi 👋, I'm Mhamad</h1>
 # 💫 About Me:
-I'm a passionate full stack developer with a strong focus on creating user-friendly and visually appealing web applications. I love turning design concepts into elegant and functional websites that deliver exceptional user experiences.
+I'm a passionate developer with a strong focus on creating user-friendly and visually appealing web applications. I love turning design concepts into elegant and functional websites that deliver exceptional user experiences.
 
 
 ## 🌐 Socials:
